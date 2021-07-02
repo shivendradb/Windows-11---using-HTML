@@ -13,7 +13,7 @@ If you wish to use any copyrighted material from tis site for purposes of yout o
 # Home Screen
 
 <p align="center">
-<img src="./images/windows-11.jpg" height=300px>
+<img src="./images/windows-11.jpg" height=400px>
 </p>
 
 <br>
@@ -21,7 +21,7 @@ If you wish to use any copyrighted material from tis site for purposes of yout o
 # Task Bar - Menu
 
 <p align="center">
-<img src="./images/windows-11(2).jpg" height=300px>
+<img src="./images/windows-11(2).jpg" height=400px>
 </p>
 
 # Note For Developers
